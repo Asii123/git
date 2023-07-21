@@ -2,6 +2,11 @@ package org.demo;
 
 public class Sample {
 	
+
+	private void shahul() {
+System.out.println("shahul");
+	}
+
 	private void asik() {
 System.out.println("asik");
 	}
