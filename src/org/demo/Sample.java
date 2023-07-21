@@ -2,6 +2,9 @@ package org.demo;
 
 public class Sample {
 	
+	private void karthik() {
+System.out.println("karthik");
+	}
 
 	private void shahul() {
 System.out.println("shahul");
